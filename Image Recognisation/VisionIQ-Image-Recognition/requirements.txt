@@ -1,0 +1,17 @@
+# ── Core Web Framework ────────────────────────────────────────
+flask
+Werkzeug
+# ── Deep Learning ─────────────────────────────────────────────
+# Python 3.12 users: tensorflow
+# Python 3.11 users: tensorflow
+tensorflow
+
+# ── Image Processing ──────────────────────────────────────────
+Pillow
+opencv-python
+# ── Utilities ─────────────────────────────────────────────────
+numpy
+requests
+
+# ── Dev / Testing ─────────────────────────────────────────────
+pytest
