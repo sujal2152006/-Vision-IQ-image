@@ -9,7 +9,7 @@
 [![Flask](https://img.shields.io/badge/Flask-3.1-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.11-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge)](LICENSE)
-[![CI](https://img.shields.io/badge/CI-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/Bansaripatel02/VisionIQ-Image-Recognition/actions)
+[![CI](https://img.shields.io/badge/CI-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/sujal2152006/VisionIQ-Image-Recognition/actions)
 
 <br/>
 
@@ -426,9 +426,9 @@ Free to use, modify, and distribute with attribution.
 
 ## 👤 Author
 
-**Bansari Patel**
+** Sujal Patel**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Bansaripatel02-181717?style=flat-square&logo=github)](https://github.com/Bansaripatel02)
+[![GitHub](https://img.shields.io/badge/GitHub-sujal2152006-181717?style=flat-square&logo=github)](https://github.com/sujal2152006)
 
 ---
 
